@@ -11,10 +11,10 @@ This repository customizes your **Git Bash terminal** with:
 
 ## Repository Files
 
-- `/tmp/workspace/Akhil-vk18/custom-git-bash/.bashrc`  
+- `.bashrc`  
   Adds terminal colors and a welcome banner.
 
-- `/tmp/workspace/Akhil-vk18/custom-git-bash/git-prompt.sh`  
+- `git-prompt.sh`  
   Defines the Git Bash prompt style and Git completion integration.
 
 ## Install on Your System (Windows Git Bash)
